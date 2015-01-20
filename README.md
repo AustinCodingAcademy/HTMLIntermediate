@@ -23,6 +23,7 @@
 * [Eloquent JavaScript: A Modern Introduction to Programming](//eloquentjavascript.net)
 * [JavaScript: The Good Parts](//www.amazon.com/exec/obidos/ASIN/0596517742/wrrrldwideweb)
 
-### Online Tools
+### Online Tools & Resources
 
 * [JSFiddle (jsfiddle.net)](//jsfiddle.net)
+* [Mozilla Developer Network](//developer.mozilla.org/en-US/docs/Web/JavaScript)
