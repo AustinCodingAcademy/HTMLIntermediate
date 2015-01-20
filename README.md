@@ -29,3 +29,8 @@
 * [JSFiddle (jsfiddle.net)](//jsfiddle.net)
 * [Mozilla Developer Network](//developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## Contact
+
+* Instructor: Rob Lowe
+* Email: rob@austincodingacademy.com
+* Phone: (512) 799-5603
