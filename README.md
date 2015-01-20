@@ -6,16 +6,16 @@
 
 ## Week-by-week Syllabus
 
-1. [Getting started with JavaScript](blob/master/syllabus/01.md)
-1. [Primitives: booleans, numbers, strings, `null`, and `undefined`](blob/master/syllabus/02.md)
-1. [Arrays and objects](blob/master/syllabus/03.md)
-1. [Conditions and control structures](blob/master/syllabus/04.md)
-1. [Errors and events](blob/master/syllabus/05.md)
-1. [Functions](blob/master/syllabus/06.md)
-1. [Object Oriented JavaScript](blob/master/syllabus/07.md)
-1. [jQuery and other JavaScript libraries](blob/master/syllabus/08.md)
-1. [???](blob/master/syllabus/09.md)
-1. [???](blob/master/syllabus/10.md)
+1. [Getting started with JavaScript](syllabus/01.md)
+1. [Primitives: booleans, numbers, strings, `null`, and `undefined`](syllabus/02.md)
+1. [Arrays and objects](syllabus/03.md)
+1. [Conditions and control structures](syllabus/04.md)
+1. [Errors and events](syllabus/05.md)
+1. [Functions](syllabus/06.md)
+1. [Object Oriented JavaScript](syllabus/07.md)
+1. [jQuery and other JavaScript libraries](syllabus/08.md)
+1. [???](syllabus/09.md)
+1. [???](syllabus/10.md)
 
 ## Resources
 
