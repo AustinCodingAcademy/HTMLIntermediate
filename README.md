@@ -29,13 +29,13 @@
 * [JSFiddle (jsfiddle.net)](//jsfiddle.net)
 * [Mozilla Developer Network](//developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[1]: blob/master/syllabus/01.md
-[2]: blob/master/syllabus/02.md
-[3]: blob/master/syllabus/03.md
-[4]: blob/master/syllabus/04.md
-[5]: blob/master/syllabus/05.md
-[6]: blob/master/syllabus/06.md
-[7]: blob/master/syllabus/07.md
-[8]: blob/master/syllabus/08.md
-[9]: blob/master/syllabus/09.md
-[10]: blob/master/syllabus/10.md
+[1]: "blob/master/syllabus/01.md"
+[2]: "blob/master/syllabus/02.md"
+[3]: "blob/master/syllabus/03.md"
+[4]: "blob/master/syllabus/04.md"
+[5]: "blob/master/syllabus/05.md"
+[6]: "blob/master/syllabus/06.md"
+[7]: "blob/master/syllabus/07.md"
+[8]: "blob/master/syllabus/08.md"
+[9]: "blob/master/syllabus/09.md"
+[10]: "blob/master/syllabus/10.md"
