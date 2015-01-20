@@ -2,7 +2,7 @@
 
 *or, This Class is Really About JavaScript.*
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Unofficial JavaScript Logo" style="width: 200px;">
+![Unofficial JavaScript Logo](http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png)
 
 ## Week-by-week Syllabus
 
