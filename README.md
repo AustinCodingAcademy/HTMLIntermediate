@@ -8,13 +8,13 @@
 
 1. [Getting started with JavaScript](syllabus/01.md)
 1. [Primitives: booleans, numbers, strings, `null`, and `undefined`](syllabus/02.md)
-1. [Arrays and objects](syllabus/03.md)
-1. [Conditions and control structures](syllabus/04.md)
-1. [Errors and events](syllabus/05.md)
-1. [Functions](syllabus/06.md)
-1. [Object Oriented JavaScript](syllabus/07.md)
-1. [DOM Manipulation](syllabus/08.md)
-1. [jQuery and other JavaScript libraries](syllabus/09.md)
+1. [DOM Structure and CSS selectors](syllabus/03.md)
+1. [Arrays and objects](syllabus/04.md)
+1. [Conditions and control structures](syllabus/05.md)
+1. [Errors and events](syllabus/06.md)
+1. [Functions](syllabus/07.md)
+1. [Object Oriented JavaScript](syllabus/08.md)
+1. [jQuery and other JavaScript librariess](syllabus/09.md)
 1. [Work week for final project](syllabus/10.md)
 
 ## Resources
