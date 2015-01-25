@@ -13,9 +13,9 @@
 1. [Errors and events](syllabus/05.md)
 1. [Functions](syllabus/06.md)
 1. [Object Oriented JavaScript](syllabus/07.md)
-1. [jQuery and other JavaScript libraries](syllabus/08.md)
-1. [???](syllabus/09.md)
-1. [???](syllabus/10.md)
+1. [DOM Manipulation](syllabus/08.md)
+1. [jQuery and other JavaScript libraries](syllabus/09.md)
+1. [Work week for final project](syllabus/10.md)
 
 ## Resources
 
@@ -26,7 +26,7 @@
 
 ### Online Tools & Resources
 
-* [JSFiddle (jsfiddle.net)](//jsfiddle.net)
+* [Codepen (codepen.io)](//codepen.io)
 * [Mozilla Developer Network](//developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Contact
