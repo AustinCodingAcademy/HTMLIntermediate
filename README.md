@@ -21,13 +21,14 @@
 
 ### Books
 
-* [Eloquent JavaScript: A Modern Introduction to Programming](//eloquentjavascript.net)
-* [JavaScript: The Good Parts](//www.amazon.com/exec/obidos/ASIN/0596517742/wrrrldwideweb)
+* [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net)
+* [JavaScript: The Good Parts](http://www.amazon.com/exec/obidos/ASIN/0596517742/wrrrldwideweb)
 
 ### Online Tools & Resources
 
-* [Codepen (codepen.io)](//codepen.io)
-* [Mozilla Developer Network](//developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Codepen (codepen.io)](http://codepen.io)
+* [Mozilla Developer Network](http://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript)
 
 ## Contact
 
