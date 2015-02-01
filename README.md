@@ -14,8 +14,13 @@
 1. [Errors and events](syllabus/06.md)
 1. [Functions](syllabus/07.md)
 1. [Object Oriented JavaScript](syllabus/08.md)
-1. [jQuery and other JavaScript librariess](syllabus/09.md)
+1. [AJAX and jQuery](syllabus/09.md)
 1. [Work week for final project](syllabus/10.md)
+
+## Bonus items
+
+1. Regular Expressions
+1. Geolocation
 
 ## Resources
 
