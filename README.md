@@ -4,7 +4,7 @@
 
 ![Unofficial JavaScript Logo](http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png)
 
-## Week-by-week Syllabus
+## Syllabus by Session
 
 1. [Values, Types, and Operators](syllabus/01.md)
 1. [Program Structure](syllabus/02.md)
@@ -31,7 +31,6 @@
 
 ## Bonus items
 
-1. Regular Expressions
 1. Geolocation
 
 ## Resources
