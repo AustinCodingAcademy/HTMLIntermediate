@@ -6,16 +6,28 @@
 
 ## Week-by-week Syllabus
 
-1. [Getting started with JavaScript](syllabus/01.md)
-1. [Primitives: booleans, numbers, strings, `null`, and `undefined`](syllabus/02.md)
-1. [DOM Structure and CSS selectors](syllabus/03.md)
-1. [Arrays and objects](syllabus/04.md)
-1. [Conditions and control structures](syllabus/05.md)
-1. [Errors and events](syllabus/06.md)
-1. [Functions](syllabus/07.md)
-1. [Object Oriented JavaScript](syllabus/08.md)
-1. [AJAX and jQuery](syllabus/09.md)
-1. [Work week for final project](syllabus/10.md)
+1. [Values, Types, and Operators](syllabus/01.md)
+1. [Program Structure](syllabus/02.md)
+1. [Functions](syllabus/03.md)
+1. [Objects and Arrays](syllabus/04.md)
+1. [Higher-order Functions](syllabus/05.md)
+1. [The Secret Life of Objects](syllabus/06.md)
+1. [Project: Electronic Life](syllabus/07.md)
+1. [Bugs and Error Handling](syllabus/08.md)
+1. [Regular Expressions](syllabus/09.md)
+1. [Modules](syllabus/10.md)
+1. [Project: A Programming Language](syllabus/11.md)
+1. [JavaScript and the Browser](syllabus/12.md)
+1. [The Document Object Model](syllabus/13.md)
+1. [Handling Events](syllabus/14.md)
+1. [Project: A Platform Game](syllabus/15.md)
+1. [Drawing on Canvas](syllabus/16.md)
+1. [HTTP](syllabus/17.md)
+1. [Forms and Form Fields](syllabus/18.md)
+1. [Project: A Paint Program](syllabus/19.md)
+1. [Node.js](syllabus/20.md)
+1. [Project: Skill-Sharing Website](syllabus/21.md)
+
 
 ## Bonus items
 
