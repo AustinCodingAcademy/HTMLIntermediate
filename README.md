@@ -11,7 +11,7 @@
 1. [Functions](syllabus/03.md)
 1. [Objects and Arrays](syllabus/04.md)
 1. [Higher-order Functions](syllabus/05.md)
-1. [The Secret Life of Objects](syllabus/06.md)
+1. [Objects Oriented Javascript](syllabus/06.md)
 1. [Project: Electronic Life](syllabus/07.md)
 1. [Bugs and Error Handling](syllabus/08.md)
 1. [Regular Expressions](syllabus/09.md)
