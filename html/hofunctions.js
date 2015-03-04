@@ -4,15 +4,6 @@ function forEach(array, action) {
     }
 }
 
-forEach(["Moe", "Larry", "Curly"], function(item) {
-    console.log(item.toUpperCase());
-});
-
-var stooges = ["Moe", "Larry", "Curly"];
-stooges.forEach(function(name) {
-    console.log(name.toUpperCase());
-})
-
 function greaterThan(n) {
     return function(m) { return m > n; };
 }
