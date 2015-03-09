@@ -1,7 +1,10 @@
 {
+    "ecmaFeatures": {
+        "templateStrings": true
+    },
     "rules": {
         "no-console": false,
         "no-undef": false,
-        "no-unused-vars": false
+        "no-unused-vars": false,
     }
 }
