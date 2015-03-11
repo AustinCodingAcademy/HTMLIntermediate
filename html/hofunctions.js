@@ -47,10 +47,6 @@ function filter(array, test) {
     return passed;
 }
 
-var movies80s = movie_list.filter( function(movie) {
-    return movie.release_date > 1979 && movie.release_date < 1990;
-});
-
 function map(array, transform) {
     var mapped = [];
     for(var i = 0; i < array.length; i++) {
@@ -59,20 +55,3 @@ function map(array, transform) {
     return mapped;
 }
 
-directors80s = movies80s.map( function(movie) {
-    return movie.director;
-});
-
-function average(array) {
-    function plus(a, b) { return a + b; }
-    return array.reduce(plus) / array.length;
-}
-function year(movie) {
-    return movie.release_date;
-}
-function director(movie) {
-    return movie.director === "James Cameron";
-}
-function genre(movie) {
-    return movie.genre === "Sci-Fi";
-}

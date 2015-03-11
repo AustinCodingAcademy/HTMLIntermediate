@@ -29,14 +29,3 @@ function some(array, f) {
 
     return false;
 }
-
-console.log(every([NaN, NaN, NaN], isNaN));
-// true
-console.log(every([NaN, NaN, 4, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN], isNaN));
-// false
-console.log(some([NaN, 3, 4], isNaN));
-// true
-console.log(some([2, 3, 4], isNaN));
-// false
-
-[NaN, NaN, NaN].some(isNaN);
