@@ -51,4 +51,6 @@
 * Email: rob@austincodingacademy.com
 * Phone: (512) 799-5603
 
+Contact me any time.
+
 I am typically available for 1-on-1 and small group from 5:00 to 7:00 PM on Monday and Wednesday and by appointment any other time, just email or call me to set something up.
