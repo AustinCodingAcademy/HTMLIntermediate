@@ -46,7 +46,7 @@ function drawTable(rows) {
         }).join("\n");
     }
 
-    return rows.map(drawRow).join("\n");
+    return "\n" + rows.map(drawRow).join("\n");
 }
 
 function repeat(string, times) {
