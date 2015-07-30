@@ -1,7 +1,11 @@
 # Subject breakdown
 
 - Primatives: Boolean, Null, Number, String, Symbol, Undefined
-- Variables: var vs let
+- Variables
+    + var vs let
+- Important Global Objects
+    + Math
+    + Date
 - Keywords and Reserved Words
 - Statements and Expressions
 - Logging output
