@@ -2,7 +2,7 @@
 
 - Primatives: Boolean, Null, Number, String, Symbol, Undefined
 - Variables
-    + var vs let
+    + var, let, & const
 - Important Global Objects
     + Math
     + Date
