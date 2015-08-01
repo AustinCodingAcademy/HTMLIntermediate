@@ -3,11 +3,11 @@
 - Primatives: Boolean, Null, Number, String, Symbol, Undefined
 - Variables
     + var, let, & const
+    + Keywords and Reserved Words
+- Statements and Expressions
 - Important Global Objects
     + Math
     + Date
-- Keywords and Reserved Words
-- Statements and Expressions
 - Logging output
 - Conditionals and Comparisons: if/else, switch
     + Logical Operators
