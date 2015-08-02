@@ -2,8 +2,9 @@
 
 - ~~Primatives: Boolean, Null, Number, String, Symbol, Undefined~~
 - ~~Statements and Expressions~~
-- Variables
-    + ~~var~~, let, & const
+- ~~Variables~~
+    + ~~var~~, ~~let~~, & ~~const~~
+- Intro to Node.js, NPM, and Babel
 - Important Global Objects
     + Math
     + Date
@@ -28,7 +29,5 @@
     + Creating elements
     + Traversing the DOM
 - Events
-- Node, Angular
+- Angular
 - In class project
-
-Subject-by-subject
