@@ -1,9 +1,8 @@
 # Subject breakdown
 
-- Primatives: Boolean, Null, Number, String, Symbol, Undefined
+- ~~Primatives: Boolean, Null, Number, String, Symbol, Undefined~~
 - Variables
     + var, let, & const
-    + Keywords and Reserved Words
 - Statements and Expressions
 - Important Global Objects
     + Math
@@ -16,6 +15,7 @@
     + Mutability
 - Loops: for, while
 - Functions
+    + Keywords and Reserved Words
 - In class project
 - Classes and Objects
 - Bugs and Error Handling
