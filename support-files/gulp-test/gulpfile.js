@@ -3,7 +3,7 @@ var sourcemaps = require("gulp-sourcemaps");
 var babel = require("gulp-babel");
 
 gulp.task('babel', function () {
-    return gulp.src("src/app.js")
+    return gulp.src("src/*.js")
         .pipe(sourcemaps.init())
         .pipe(babel())
         .pipe(sourcemaps.write("."))
