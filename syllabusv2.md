@@ -1,9 +1,9 @@
 # Subject breakdown
 
 - ~~Primatives: Boolean, Null, Number, String, Symbol, Undefined~~
-- Statements and Expressions
+- ~~Statements and Expressions~~
 - Variables
-    + var, let, & const
+    + ~~var~~, let, & const
 - Important Global Objects
     + Math
     + Date

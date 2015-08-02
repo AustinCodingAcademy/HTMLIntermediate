@@ -7,6 +7,7 @@
 ## Lesson Plan
 
 1. [History of JavaScript and JavaScript Primitives](lessons/01.md)
+2. [Syntax and Variables](lessons/02.md)
 
 ## Resources
 
