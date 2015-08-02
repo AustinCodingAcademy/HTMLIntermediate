@@ -32,7 +32,7 @@ A couple books I have read and recommend.
 * Instructor: Rob Lowe
 * Email: rob@austincodingacademy.com
 * Phone: (512) 799-5603
-* Twitter: @rhlowe
+* Twitter: [@rhlowe](https://twitter.com/rhlowe)
 
 Contact me any time.
 
