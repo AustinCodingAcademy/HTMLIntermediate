@@ -4,7 +4,7 @@
 - ~~Statements and Expressions~~
 - ~~Variables~~
     + ~~var~~, ~~let~~, & ~~const~~
-- Intro to Node.js, NPM, and Babel
+- ~~Intro to Node.js, NPM, and Babel~~
 - Important Global Objects
     + Math
     + Date
