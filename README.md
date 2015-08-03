@@ -8,6 +8,7 @@
 
 1. [History of JavaScript and JavaScript Primitives](lessons/01.md)
 2. [Syntax and Variables](lessons/02.md)
+3. [Node.js, NPM, Gulp, and Babel](lessons/03.md)
 
 ## Resources
 
