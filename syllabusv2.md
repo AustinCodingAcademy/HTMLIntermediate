@@ -30,4 +30,4 @@
     + Traversing the DOM
 - Events
 - Angular
-- In class project (Maybe another calculator, but with angular)
+- In class project (A Todo List app)

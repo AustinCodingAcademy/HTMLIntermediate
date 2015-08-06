@@ -7,3 +7,6 @@ Section structure:
 
 ```javascript
 ```
+
+Overarching goal
+Some sort of application after each new topic
