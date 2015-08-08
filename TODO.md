@@ -8,5 +8,9 @@ Section structure:
 ```javascript
 ```
 
+#### Exercise Break!
+
+>
+
 Overarching goal
 Some sort of application after each new topic
