@@ -30,11 +30,11 @@ Last revised: 2015 August 16
 - Students will use various debugging methods to find problems in their code.
 - Students will write JavaScript tests to verify functionality in their code.
 - Students will use Angular.js to manage and react to page interactions.
-- **Students will use their knowledge so far to build a todo list app.**
+- **Students will use their knowledge so far to build a todo list app.** The following skills will be required:
   1. Commented code
   1. Variables
   1. Loops and conditional statements
   1. Functions
   2. Modules
-  3. Dom manipulation
+  3. DOM manipulation
   4. BONUS: LocalStorage
