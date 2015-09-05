@@ -15,8 +15,13 @@ Last revised: 2015 August 16
 - Students will use *arrays*, *objects*, *maps*, and *sets* to make lists of data.
 - Students will use loops to iterate over data.
 - Students will use functions to define reusable code.
-- **Students will use their knowledge so far to build a calculator.**
+- **Students will use their knowledge so far to build a calculator.** The following skills will be required:
+  1. Commented code
+  1. Variables
+  1. Loops and conditional statements
+  1. Functions
 - Students will use classes to define the blueprint of objects.
+- Students will use JavaScript modules to organize code.
 - Students will use the Math and Date global objects to perform mathematical and date-related operations.
 - Students will use regular expressions to search and manipulate string data.
 - Students will use DOM methods to select, modify, and create HTML elements.
@@ -26,3 +31,10 @@ Last revised: 2015 August 16
 - Students will write JavaScript tests to verify functionality in their code.
 - Students will use Angular.js to manage and react to page interactions.
 - **Students will use their knowledge so far to build a todo list app.**
+  1. Commented code
+  1. Variables
+  1. Loops and conditional statements
+  1. Functions
+  2. Modules
+  3. Dom manipulation
+  4. BONUS: LocalStorage
