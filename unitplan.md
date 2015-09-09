@@ -4,7 +4,7 @@ Last revised: 2015 August 16
 
 - Students will:
   1. set up their workspaces to use Node.js, NPM, and Babel
-  1. set up their editor to perform JavaScript lint tests.
+  1. set up their editor to perform JavaScript linting
   1. create new files
 - Students will understand the `Boolean`, `Null`, `Number`, `String`, `Symbol`, and `Undefined` data types.
 - Students will understand the difference between *statements* and *expressions*.
