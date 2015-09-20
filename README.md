@@ -43,4 +43,4 @@ A couple books I have read and recommend.
 
 Contact me any time.
 
-I am typically available for 1-on-1 and small group from 5:00 to 6:30 PM and after class on Mondays and Wednesdays and by appointment any other time, just email or call me to set something up.
+I am typically available for 1-on-1 and small group from 5:00 to 6:30 PM and after class on Mondays and Wednesdays and by appointment any other time, just email or call me to set something up, or contact me any time on Slack.
