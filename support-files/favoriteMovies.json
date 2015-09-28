@@ -1,0 +1,38 @@
+[
+    {
+        "director": "James Cameron",
+        "genre": "Sci-Fi",
+        "release_date": 1989,
+        "title": "The Abyss"
+    },
+    {
+        "director": "Ridley Scott",
+        "genre": "Sci-Fi",
+        "release_date": 1979,
+        "title": "Alien"
+    },
+    {
+        "director": "James Cameron",
+        "genre": "Sci-Fi",
+        "release_date": 1986,
+        "title": "Aliens"
+    },
+    {
+        "director": "Phil Alden Robinson",
+        "genre": "Drama",
+        "release_date": 1989,
+        "title": "Field of Dreams"
+    },
+    {
+        "director": "Brad Bird",
+        "genre": "Action",
+        "release_date": 2004,
+        "title": "The Incredibles"
+    },
+    {
+        "director": "Barry Levinson",
+        "genre": "Sci-Fi",
+        "release_date": 1998,
+        "title": "Sphere"
+    }
+]

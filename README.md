@@ -6,9 +6,14 @@
 
 ## Lesson Plan
 
-1. [History of JavaScript and JavaScript Primitives](lessons/01.md)
-2. [Syntax and Variables](lessons/02.md)
-3. [Node.js, NPM, Gulp, and Babel](lessons/03.md)
+1. [Node.js, NPM, Gulp, and Babel](lessons/01.md), [Homework](homework/01.md)
+1. [Primitives Data Types](lessons/02.md), [Homework](homework/02.md)
+1. [Syntax and Variables](lessons/03.md), [Homework](homework/03.md)
+1. [Conditionals and Comparisons](lessons/04.md), [Homework](homework/04.md)
+1. [Array, Objects, Maps, and Sets](lessons/05.md), [Homework](homework/05.md)
+1. [Loops and Iteration](lessons/06.md), [Homework](homework/06.md)
+1. [Functions](lessons/07.md), [Homework](homework/07.md)
+1. [Classes](lessons/08.md), [Homework](homework/08.md)
 
 ## Resources
 
@@ -54,4 +59,4 @@ A couple books I have read and recommend.
 
 Contact me any time.
 
-I am typically available for 1-on-1 and small group from 5:00 to 6:30 PM and after class on Mondays and Wednesdays and by appointment any other time, just email or call me to set something up.
+I am typically available for 1-on-1 and small group from 5:00 to 6:30 PM and after class on Mondays and Wednesdays and by appointment any other time, just email or call me to set something up, or contact me any time on Slack.
