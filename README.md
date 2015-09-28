@@ -29,6 +29,22 @@ A couple books I have read and recommend.
 * [Mozilla Developer Network](http://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript)
 
+### Blogs
+
+- http://2ality.com
+- http://alistapart.com
+- http://blog.codinghorror.com
+- http://css-tricks.com
+- http://hacks.mozilla.org
+- http://html5doctor.com
+- http://html5weekly.com
+- http://javascriptweekly.com
+- http://lukew.com/ff
+- http://markboulton.co.uk
+- http://paulirish.com
+- http://tantek.com
+- http://zeldman.com
+
 ## Contact
 
 * Instructor: Rob Lowe
