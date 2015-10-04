@@ -14,6 +14,7 @@
 1. [Loops and Iteration](lessons/06.md), [Homework](homework/06.md)
 1. [Functions](lessons/07.md), [Homework](homework/07.md)
 1. [Classes](lessons/08.md), [Homework](homework/08.md)
+1. [Midterm Project](homework/midterm.md)
 
 ## Resources
 
