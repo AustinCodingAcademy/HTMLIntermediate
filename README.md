@@ -16,6 +16,7 @@
 1. [Classes](lessons/08.md), [Homework](homework/08.md)
 1. [Midterm Project](homework/midterm.md)
 1. [DOM Manipulation](lessons/09.md), [Homework](homework/09.md)
+1. [Events](lessons/10.md), [Homework](homework/10.md)
 
 ## Resources
 
